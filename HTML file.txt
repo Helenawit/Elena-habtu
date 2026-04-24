@@ -1,0 +1,55 @@
+<!doc html>
+  <html>
+
+  <head>
+    <tittle> My country of Origin </tittle>
+  </head>
+
+  <body>
+      <h1> Eritrea </h1>
+      <p> Eritrea is a country located in the Horn of AFRICA. Bordered by Sudan to the West Ethiopia to the south and Djibouti to the southeast and it also has a coastline along the Red Sea to the east. Its capital is called Asmara. Which is known for well-preserved Italian colonial architecture. Eritrea has a rich culture heritage with over nine ethnic groups and several languages. Eritrea gained its independence from Ethiopia in 1993, and it has diverse history and beautiful landscapes from the mountains.</p>
+    
+      <h2> The ethnic groups </h2>
+      <p> Eritrea is known for its rich cultural diversity. The nine recognised ethnic groups include </p>
+     <ol>
+        <li> Tigriyna </li>
+        <li> Tigre </li>
+        <li> Blien </li>
+        <li> Saho </li>
+        <li> Afar </li>
+        <li> Nara </li>
+        <li> Hedareb </li>
+        <li> Rashada </li>
+        <li> Kunama </li>
+      </ol>
+
+    <ul>
+      <li>Capital city: Asmara </li>
+      <li>Languages:Tigrinya, Tigre, Arabic, English, Beja, Kunama, Saho, Bilen, Nara, Afar </li>
+      <li> Population: 6.2 million </li>
+    </ul>
+
+    <h2> 9 Ethnic groups of Eritrea and culture </h2>
+
+    <p> Eritrea’s population consists of several ethnic groups, each with its own language and cultural tradition. In addition to the languages spoken by the various ethnic groups, Arabic and English are widely understood. Italian is occasionally used as well.</p>
+
+      <a href="https://www.britannica.com/place/Eritrea"> Eritrea.com </a> 
+
+      <p>
+        <img src="https://shabait.com/wp-content/uploads/2020/08/45.jpg" alt="9 Ethnic groups" height="500" width="400">
+      </p>
+    <h3> Eritrea Flag </h3>
+ <p> 
+The flag of Eritrea is dominated by a red isosceles triangle based on the hoist-side pointed toward the fly-side and then divided into two right triangles. The upper triangle is green and the lower triangle is blue with a yellow vertical olive branch encircled by an olive wreath centered on the hoist side of the triangle. The shape of the red triangle broadly mimics the shape of the country. The green stands for the agriculture and livestock of the country, blue for the bounty of the sea, and red for the bloodshed in the struggle for independence with the 30 leaves in the wreath corresponding to the thirty years spent in the struggle </p>
+<p> <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_Eritrea_Requirements.png" 
+     alt= "Eritrea flag"
+     height="500" 
+         width="400"></p>
+<h4> Coffee </h4>
+      <p> Coffee is an important ingredient of Eritrean social life. Making a good cup of coffee, Eritreans say, requires both patience and skill. The commonly accepted method of making coffee suggests the need for both: coffee beans are roasted in a skillet or oven, pounded and ground with a mortar and pestle, and then poured into a pot that is half full of cold water and, sometimes, ginger root. After the mix is boiled, it is poured through an oxtail filter and served in small porcelain cups with sugar cubes. Popcorn or other snacks may be eaten as accompaniments to the coffee.</p>
+      <div class="image-container"> <img class="center src= https://www.blackfoodie.co/wp-content/uploads/2017/09/Beans-Roasting.jpg" alt="Roasting coffee beans"> 
+        </div>
+                                     
+  </body>
+
+  </html>
